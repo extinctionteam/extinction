@@ -170,7 +170,7 @@ To install Extinction on Safari, you must allow unsigned extensions in your sett
 
 ### Reporting Issues
 
-To report an issue or bug, visit Extinction's [issue tracker](https://github.com/extinctionteam/extinction/issues) on GitHub.
+To report an issue or bug, visit Extinction's [issue tracker](https://github.com/v81d/extinction/issues) on GitHub.
 
 ### Pull Requests
 
